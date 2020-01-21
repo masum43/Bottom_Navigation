@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/drop"
+        android:icon="@drawable/ic_invert_colors_black_24dp"
+        android:title="@string/drop" />
+
+    <item
+        android:id="@+id/heart"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        android:title="@string/heart" />
+
+    <item
+        android:id="@+id/android"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="@string/android" />
+
+</menu>
